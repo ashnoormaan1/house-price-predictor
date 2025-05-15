@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Ashnoor%20Maan/Documents/mlops/house-price-predictor/notebooks/mlruns/0/f353c4ec75814889a6f5da8030f6d217/artifacts
+end_time: 1747287439006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f353c4ec75814889a6f5da8030f6d217
+run_name: RandomForest
+run_uuid: f353c4ec75814889a6f5da8030f6d217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747287429922
+status: 3
+tags: []
+user_id: Ashnoor Maan

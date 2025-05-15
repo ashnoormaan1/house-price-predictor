@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Ashnoor%20Maan/Documents/mlops/house-price-predictor/notebooks/mlruns/0/c8114c6c97714150b1d27fb613f93aba/artifacts
+end_time: 1747287443173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8114c6c97714150b1d27fb613f93aba
+run_name: GradientBoosting
+run_uuid: c8114c6c97714150b1d27fb613f93aba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747287439009
+status: 3
+tags: []
+user_id: Ashnoor Maan
